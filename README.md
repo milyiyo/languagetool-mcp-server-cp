@@ -1,0 +1,1 @@
+# languagetool-mcp-server-cp
