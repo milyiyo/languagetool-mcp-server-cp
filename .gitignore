@@ -1,0 +1,21 @@
+# Node.js
+node_modules/
+dist/
+*.js.map
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment
+.env
+.env.local
+
+# Editor
+.idea/
+*.iml
+.vscode/
+
+# Claude Code — benutzerspezifische Einstellungen
+.claude/settings.local.json
+.claude/memory/
